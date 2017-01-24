@@ -1,0 +1,1 @@
+fbx_converter_bin terrain.fbx -o terrain

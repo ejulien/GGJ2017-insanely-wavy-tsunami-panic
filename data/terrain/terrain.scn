@@ -1,0 +1,2295 @@
+{
+	"Scene": {
+		"Components": {
+			"gs::core::Environment": {
+				"AmbientColor": {
+					"r": 0.4001,
+					"g": 0.4001,
+					"b": 0.4001
+				},
+				"FogColor": {
+					"r": 1.0,
+					"g": 1.0,
+					"b": 1.0
+				}
+			}
+		},
+		"Nodes": {
+			"Node": {
+				"Uid": 1,
+				"Name": "fontaine",
+				"Components": {
+					"gs::core::Transform": {
+						"Position": {
+							"x": -7.0774,
+							"y": 20.094,
+							"z": 28.6555
+						},
+						"Rotation": {
+							"x": -0.0,
+							"y": 0.0,
+							"z": 0.0
+						},
+						"Scale": {
+							"x": 0.0123,
+							"y": 0.0123,
+							"z": 0.0123
+						}
+					},
+					"gs::core::Object": {
+						"Geometry": "terrain/fontaine.geo"
+					}
+				}
+			},
+			"Node": {
+				"Uid": 2,
+				"Name": "mesh_export.019",
+				"Components": {
+					"gs::core::Transform": {
+						"Position": {
+							"x": 9.3099,
+							"y": 18.0984,
+							"z": 42.929300000000008
+						},
+						"Rotation": {
+							"x": 1.4975,
+							"y": 0.2741,
+							"z": 0.0001
+						},
+						"Scale": {
+							"x": 0.01,
+							"y": 0.01,
+							"z": 0.01
+						}
+					},
+					"gs::core::Object": {
+						"Geometry": "terrain/mesh_export.019.geo"
+					}
+				}
+			},
+			"Node": {
+				"Uid": 3,
+				"Name": "mesh_export.018",
+				"Components": {
+					"gs::core::Transform": {
+						"Position": {
+							"x": 10.1244,
+							"y": 18.0984,
+							"z": 43.8427
+						},
+						"Rotation": {
+							"x": 1.4975,
+							"y": 0.501,
+							"z": 0.0001
+						},
+						"Scale": {
+							"x": 0.01,
+							"y": 0.01,
+							"z": 0.01
+						}
+					},
+					"gs::core::Object": {
+						"Geometry": "terrain/mesh_export.018.geo"
+					}
+				}
+			},
+			"Node": {
+				"Uid": 4,
+				"Name": "mesh_export.017",
+				"Components": {
+					"gs::core::Transform": {
+						"Position": {
+							"x": 11.4654,
+							"y": 17.919700000000004,
+							"z": 44.301100000000008
+						},
+						"Rotation": {
+							"x": -0.0,
+							"y": 0.501,
+							"z": -0.0
+						},
+						"Scale": {
+							"x": 0.01,
+							"y": 0.01,
+							"z": 0.01
+						}
+					},
+					"gs::core::Object": {
+						"Geometry": "terrain/mesh_export.017.geo"
+					}
+				}
+			},
+			"Node": {
+				"Uid": 5,
+				"Name": "mesh_export.016",
+				"Components": {
+					"gs::core::Transform": {
+						"Position": {
+							"x": 12.0974,
+							"y": 17.919700000000004,
+							"z": 44.301100000000008
+						},
+						"Rotation": {
+							"x": -0.0,
+							"y": -1.0157,
+							"z": -0.0
+						},
+						"Scale": {
+							"x": 0.01,
+							"y": 0.01,
+							"z": 0.01
+						}
+					},
+					"gs::core::Object": {
+						"Geometry": "terrain/mesh_export.016.geo"
+					}
+				}
+			},
+			"Node": {
+				"Uid": 6,
+				"Name": "mesh_export.015",
+				"Components": {
+					"gs::core::Transform": {
+						"Position": {
+							"x": 6.6092,
+							"y": 17.8257,
+							"z": 41.6957
+						},
+						"Rotation": {
+							"x": -0.0,
+							"y": 0.0,
+							"z": 0.0
+						},
+						"Scale": {
+							"x": 0.01,
+							"y": 0.01,
+							"z": 0.01
+						}
+					},
+					"gs::core::Object": {
+						"Geometry": "terrain/mesh_export.015.geo"
+					}
+				}
+			},
+			"Node": {
+				"Uid": 7,
+				"Name": "mesh_export.014",
+				"Components": {
+					"gs::core::Transform": {
+						"Position": {
+							"x": 7.5758,
+							"y": 17.9073,
+							"z": 41.7978
+						},
+						"Rotation": {
+							"x": -0.0,
+							"y": 0.0,
+							"z": 0.0
+						},
+						"Scale": {
+							"x": 0.01,
+							"y": 0.01,
+							"z": 0.01
+						}
+					},
+					"gs::core::Object": {
+						"Geometry": "terrain/mesh_export.014.geo"
+					}
+				}
+			},
+			"Node": {
+				"Uid": 8,
+				"Name": "mesh_export.013",
+				"Components": {
+					"gs::core::Transform": {
+						"Position": {
+							"x": 2.4004000000000005,
+							"y": 24.189700000000003,
+							"z": -0.2041
+						},
+						"Rotation": {
+							"x": -0.0,
+							"y": 0.0,
+							"z": 0.0
+						},
+						"Scale": {
+							"x": 0.01,
+							"y": 0.01,
+							"z": 0.01
+						}
+					},
+					"gs::core::Object": {
+						"Geometry": "terrain/mesh_export.013.geo"
+					}
+				}
+			},
+			"Node": {
+				"Uid": 9,
+				"Name": "mesh_export.012",
+				"Components": {
+					"gs::core::Transform": {
+						"Position": {
+							"x": 3.2627,
+							"y": 24.189700000000003,
+							"z": -0.2041
+						},
+						"Rotation": {
+							"x": -0.0,
+							"y": 0.0,
+							"z": 0.0
+						},
+						"Scale": {
+							"x": 0.01,
+							"y": 0.01,
+							"z": 0.01
+						}
+					},
+					"gs::core::Object": {
+						"Geometry": "terrain/mesh_export.012.geo"
+					}
+				}
+			},
+			"Node": {
+				"Uid": 10,
+				"Name": "mesh_export.011",
+				"Components": {
+					"gs::core::Transform": {
+						"Position": {
+							"x": 4.0629,
+							"y": 24.189700000000003,
+							"z": -0.2041
+						},
+						"Rotation": {
+							"x": -0.0,
+							"y": 0.0,
+							"z": 0.0
+						},
+						"Scale": {
+							"x": 0.01,
+							"y": 0.01,
+							"z": 0.01
+						}
+					},
+					"gs::core::Object": {
+						"Geometry": "terrain/mesh_export.011.geo"
+					}
+				}
+			},
+			"Node": {
+				"Uid": 11,
+				"Name": "mesh_export.010",
+				"Components": {
+					"gs::core::Transform": {
+						"Position": {
+							"x": 3.1624000000000005,
+							"y": 24.9447,
+							"z": -8.8757
+						},
+						"Rotation": {
+							"x": -0.0,
+							"y": 0.0,
+							"z": 0.0
+						},
+						"Scale": {
+							"x": 0.01,
+							"y": 0.01,
+							"z": 0.01
+						}
+					},
+					"gs::core::Object": {
+						"Geometry": "terrain/mesh_export.010.geo"
+					}
+				}
+			},
+			"Node": {
+				"Uid": 12,
+				"Name": "mesh export.032",
+				"Components": {
+					"gs::core::Transform": {
+						"Position": {
+							"x": -47.621700000000007,
+							"y": 34.4261,
+							"z": -11.163400000000001
+						},
+						"Rotation": {
+							"x": -0.0,
+							"y": 0.0,
+							"z": 0.0
+						},
+						"Scale": {
+							"x": 0.01,
+							"y": 0.01,
+							"z": 0.01
+						}
+					},
+					"gs::core::Object": {
+						"Geometry": "terrain/mesh export.032.geo"
+					}
+				}
+			},
+			"Node": {
+				"Uid": 13,
+				"Name": "mesh export.031",
+				"Components": {
+					"gs::core::Transform": {
+						"Position": {
+							"x": -62.307900000000007,
+							"y": 33.685,
+							"z": -9.260200000000001
+						},
+						"Rotation": {
+							"x": -0.0,
+							"y": 0.0262,
+							"z": 0.5184
+						},
+						"Scale": {
+							"x": 0.006500000000000001,
+							"y": 0.006500000000000001,
+							"z": 0.006500000000000001
+						}
+					},
+					"gs::core::Object": {
+						"Geometry": "terrain/mesh export.031.geo"
+					}
+				}
+			},
+			"Node": {
+				"Uid": 14,
+				"Name": "mesh export.030",
+				"Components": {
+					"gs::core::Transform": {
+						"Position": {
+							"x": -53.8763,
+							"y": 33.1561,
+							"z": -21.3182
+						},
+						"Rotation": {
+							"x": -0.218,
+							"y": 0.9534,
+							"z": 0.0304
+						},
+						"Scale": {
+							"x": 0.0109,
+							"y": 0.0109,
+							"z": 0.0109
+						}
+					},
+					"gs::core::Object": {
+						"Geometry": "terrain/mesh export.030.geo"
+					}
+				}
+			},
+			"Node": {
+				"Uid": 15,
+				"Name": "mesh export.029",
+				"Components": {
+					"gs::core::Transform": {
+						"Position": {
+							"x": -44.196200000000008,
+							"y": 34.607800000000008,
+							"z": -24.8046
+						},
+						"Rotation": {
+							"x": -0.272,
+							"y": 0.1507,
+							"z": 0.043500000000000007
+						},
+						"Scale": {
+							"x": 0.0091,
+							"y": 0.0091,
+							"z": 0.0091
+						}
+					},
+					"gs::core::Object": {
+						"Geometry": "terrain/mesh export.029.geo"
+					}
+				}
+			},
+			"Node": {
+				"Uid": 16,
+				"Name": "mesh export.028",
+				"Components": {
+					"gs::core::Transform": {
+						"Position": {
+							"x": -47.0435,
+							"y": 31.631300000000004,
+							"z": -4.6571
+						},
+						"Rotation": {
+							"x": 0.18330000000000003,
+							"y": 0.0,
+							"z": 0.0
+						},
+						"Scale": {
+							"x": 0.01,
+							"y": 0.010100000000000002,
+							"z": 0.010100000000000002
+						}
+					},
+					"gs::core::Object": {
+						"Geometry": "terrain/mesh export.028.geo"
+					}
+				}
+			},
+			"Node": {
+				"Uid": 17,
+				"Name": "mesh export.027",
+				"Components": {
+					"gs::core::Transform": {
+						"Position": {
+							"x": -58.2256,
+							"y": 37.5653,
+							"z": 7.6703
+						},
+						"Rotation": {
+							"x": -0.0,
+							"y": 0.0,
+							"z": 0.0
+						},
+						"Scale": {
+							"x": 0.01,
+							"y": 0.01,
+							"z": 0.01
+						}
+					},
+					"gs::core::Object": {
+						"Geometry": "terrain/mesh export.027.geo"
+					}
+				}
+			},
+			"Node": {
+				"Uid": 18,
+				"Name": "mesh export.026",
+				"Components": {
+					"gs::core::Transform": {
+						"Position": {
+							"x": -55.2012,
+							"y": 34.766600000000007,
+							"z": -10.6879
+						},
+						"Rotation": {
+							"x": -0.0,
+							"y": 0.0,
+							"z": 0.0
+						},
+						"Scale": {
+							"x": 0.01,
+							"y": 0.01,
+							"z": 0.01
+						}
+					},
+					"gs::core::Object": {
+						"Geometry": "terrain/mesh export.026.geo"
+					}
+				}
+			},
+			"Node": {
+				"Uid": 19,
+				"Name": "mesh export.025",
+				"Components": {
+					"gs::core::Transform": {
+						"Position": {
+							"x": -58.7575,
+							"y": 36.0661,
+							"z": -1.5993000000000002
+						},
+						"Rotation": {
+							"x": -0.0,
+							"y": 0.9059,
+							"z": -0.0
+						},
+						"Scale": {
+							"x": 0.0109,
+							"y": 0.0109,
+							"z": 0.0109
+						}
+					},
+					"gs::core::Object": {
+						"Geometry": "terrain/mesh export.025.geo"
+					}
+				}
+			},
+			"Node": {
+				"Uid": 20,
+				"Name": "mesh export.024",
+				"Components": {
+					"gs::core::Transform": {
+						"Position": {
+							"x": -64.7613,
+							"y": 35.816,
+							"z": 5.125
+						},
+						"Rotation": {
+							"x": -0.11220000000000001,
+							"y": 0.0085,
+							"z": 0.4393
+						},
+						"Scale": {
+							"x": 0.01,
+							"y": 0.01,
+							"z": 0.01
+						}
+					},
+					"gs::core::Object": {
+						"Geometry": "terrain/mesh export.024.geo"
+					}
+				}
+			},
+			"Node": {
+				"Uid": 21,
+				"Name": "mesh export.023",
+				"Components": {
+					"gs::core::Transform": {
+						"Position": {
+							"x": -64.67620000000001,
+							"y": 37.7363,
+							"z": 26.468
+						},
+						"Rotation": {
+							"x": -0.013600000000000001,
+							"y": 0.3972,
+							"z": 0.515
+						},
+						"Scale": {
+							"x": 0.007,
+							"y": 0.007,
+							"z": 0.007
+						}
+					},
+					"gs::core::Object": {
+						"Geometry": "terrain/mesh export.023.geo"
+					}
+				}
+			},
+			"Node": {
+				"Uid": 22,
+				"Name": "mesh export.022",
+				"Components": {
+					"gs::core::Transform": {
+						"Position": {
+							"x": -55.7898,
+							"y": 36.294000000000007,
+							"z": 30.4784
+						},
+						"Rotation": {
+							"x": -0.09820000000000001,
+							"y": 0.1395,
+							"z": -0.24200000000000003
+						},
+						"Scale": {
+							"x": 0.013900000000000001,
+							"y": 0.013900000000000001,
+							"z": 0.013900000000000001
+						}
+					},
+					"gs::core::Object": {
+						"Geometry": "terrain/mesh export.022.geo"
+					}
+				}
+			},
+			"Node": {
+				"Uid": 23,
+				"Name": "mesh export.021",
+				"Components": {
+					"gs::core::Transform": {
+						"Position": {
+							"x": -62.0863,
+							"y": 38.2593,
+							"z": 22.2313
+						},
+						"Rotation": {
+							"x": -0.0,
+							"y": 0.9059,
+							"z": -0.0
+						},
+						"Scale": {
+							"x": 0.0109,
+							"y": 0.0109,
+							"z": 0.0109
+						}
+					},
+					"gs::core::Object": {
+						"Geometry": "terrain/mesh export.021.geo"
+					}
+				}
+			},
+			"Node": {
+				"Uid": 24,
+				"Name": "mesh export.020",
+				"Components": {
+					"gs::core::Transform": {
+						"Position": {
+							"x": -61.1017,
+							"y": 38.2745,
+							"z": 14.7085
+						},
+						"Rotation": {
+							"x": -0.0,
+							"y": 0.0,
+							"z": 0.0
+						},
+						"Scale": {
+							"x": 0.01,
+							"y": 0.01,
+							"z": 0.01
+						}
+					},
+					"gs::core::Object": {
+						"Geometry": "terrain/mesh export.020.geo"
+					}
+				}
+			},
+			"Node": {
+				"Uid": 25,
+				"Name": "mesh export.019",
+				"Components": {
+					"gs::core::Transform": {
+						"Position": {
+							"x": 53.342400000000008,
+							"y": 32.298300000000008,
+							"z": 16.7055
+						},
+						"Rotation": {
+							"x": -0.0,
+							"y": 0.0,
+							"z": 0.0
+						},
+						"Scale": {
+							"x": 0.01,
+							"y": 0.01,
+							"z": 0.01
+						}
+					},
+					"gs::core::Object": {
+						"Geometry": "terrain/mesh export.019.geo"
+					}
+				}
+			},
+			"Node": {
+				"Uid": 26,
+				"Name": "mesh export.018",
+				"Components": {
+					"gs::core::Transform": {
+						"Position": {
+							"x": 52.357800000000008,
+							"y": 32.283100000000008,
+							"z": 24.2283
+						},
+						"Rotation": {
+							"x": -0.0,
+							"y": 0.9059,
+							"z": -0.0
+						},
+						"Scale": {
+							"x": 0.0109,
+							"y": 0.0109,
+							"z": 0.0109
+						}
+					},
+					"gs::core::Object": {
+						"Geometry": "terrain/mesh export.018.geo"
+					}
+				}
+			},
+			"Node": {
+				"Uid": 27,
+				"Name": "mesh export.017",
+				"Components": {
+					"gs::core::Transform": {
+						"Position": {
+							"x": 53.4744,
+							"y": 37.8714,
+							"z": -4.723800000000001
+						},
+						"Rotation": {
+							"x": -0.0,
+							"y": 0.0629,
+							"z": -0.1466
+						},
+						"Scale": {
+							"x": 0.0091,
+							"y": 0.0091,
+							"z": 0.0091
+						}
+					},
+					"gs::core::Object": {
+						"Geometry": "terrain/mesh export.017.geo"
+					}
+				}
+			},
+			"Node": {
+				"Uid": 28,
+				"Name": "mesh export.016",
+				"Components": {
+					"gs::core::Transform": {
+						"Position": {
+							"x": 52.4898,
+							"y": 36.484100000000008,
+							"z": 2.799
+						},
+						"Rotation": {
+							"x": 0.0441,
+							"y": 0.9707,
+							"z": 0.2394
+						},
+						"Scale": {
+							"x": 0.0109,
+							"y": 0.0109,
+							"z": 0.0109
+						}
+					},
+					"gs::core::Object": {
+						"Geometry": "terrain/mesh export.016.geo"
+					}
+				}
+			},
+			"Node": {
+				"Uid": 29,
+				"Name": "mesh export.015",
+				"Components": {
+					"gs::core::Transform": {
+						"Position": {
+							"x": 51.1058,
+							"y": 34.4739,
+							"z": 11.1036
+						},
+						"Rotation": {
+							"x": -0.0,
+							"y": 0.0262,
+							"z": 0.5184
+						},
+						"Scale": {
+							"x": 0.01,
+							"y": 0.01,
+							"z": 0.01
+						}
+					},
+					"gs::core::Object": {
+						"Geometry": "terrain/mesh export.015.geo"
+					}
+				}
+			},
+			"Node": {
+				"Uid": 30,
+				"Name": "mesh export.014",
+				"Components": {
+					"gs::core::Transform": {
+						"Position": {
+							"x": 53.308800000000008,
+							"y": 32.4009,
+							"z": 46.9523
+						},
+						"Rotation": {
+							"x": -0.0,
+							"y": 0.43110000000000006,
+							"z": 0.0001
+						},
+						"Scale": {
+							"x": 0.01,
+							"y": 0.01,
+							"z": 0.01
+						}
+					},
+					"gs::core::Object": {
+						"Geometry": "terrain/mesh export.014.geo"
+					}
+				}
+			},
+			"Node": {
+				"Uid": 31,
+				"Name": "mesh export.013",
+				"Components": {
+					"gs::core::Transform": {
+						"Position": {
+							"x": 58.654300000000009,
+							"y": 28.843300000000004,
+							"z": 32.475300000000007
+						},
+						"Rotation": {
+							"x": -0.1008,
+							"y": 0.1237,
+							"z": -0.08420000000000001
+						},
+						"Scale": {
+							"x": 0.013900000000000001,
+							"y": 0.013900000000000001,
+							"z": 0.013900000000000001
+						}
+					},
+					"gs::core::Object": {
+						"Geometry": "terrain/mesh export.013.geo"
+					}
+				}
+			},
+			"Node": {
+				"Uid": 32,
+				"Name": "mesh export.012",
+				"Components": {
+					"gs::core::Transform": {
+						"Position": {
+							"x": 58.7366,
+							"y": 29.8385,
+							"z": -38.1233
+						},
+						"Rotation": {
+							"x": -0.0,
+							"y": 0.0,
+							"z": 0.0
+						},
+						"Scale": {
+							"x": 0.01,
+							"y": 0.01,
+							"z": 0.01
+						}
+					},
+					"gs::core::Object": {
+						"Geometry": "terrain/mesh export.012.geo"
+					}
+				}
+			},
+			"Node": {
+				"Uid": 33,
+				"Name": "mesh export.011",
+				"Components": {
+					"gs::core::Transform": {
+						"Position": {
+							"x": 49.298700000000007,
+							"y": 31.1259,
+							"z": 28.4649
+						},
+						"Rotation": {
+							"x": 0.1168,
+							"y": 0.43460000000000006,
+							"z": 0.24960000000000003
+						},
+						"Scale": {
+							"x": 0.007,
+							"y": 0.007,
+							"z": 0.007
+						}
+					},
+					"gs::core::Object": {
+						"Geometry": "terrain/mesh export.011.geo"
+					}
+				}
+			},
+			"Node": {
+				"Uid": 34,
+				"Name": "mesh export.010",
+				"Components": {
+					"gs::core::Transform": {
+						"Position": {
+							"x": 40.8309,
+							"y": 34.3168,
+							"z": -45.863400000000009
+						},
+						"Rotation": {
+							"x": 0.1746,
+							"y": 2.1608,
+							"z": 0.0001
+						},
+						"Scale": {
+							"x": 0.0105,
+							"y": 0.0105,
+							"z": 0.0105
+						}
+					},
+					"gs::core::Object": {
+						"Geometry": "terrain/mesh export.010.geo"
+					}
+				}
+			},
+			"Node": {
+				"Uid": 35,
+				"Name": "mesh export.009",
+				"Components": {
+					"gs::core::Transform": {
+						"Position": {
+							"x": 47.6501,
+							"y": 31.698900000000003,
+							"z": 37.7976
+						},
+						"Rotation": {
+							"x": -0.0,
+							"y": 0.0245,
+							"z": -0.2792
+						},
+						"Scale": {
+							"x": 0.01,
+							"y": 0.01,
+							"z": 0.01
+						}
+					},
+					"gs::core::Object": {
+						"Geometry": "terrain/mesh export.009.geo"
+					}
+				}
+			},
+			"Node": {
+				"Uid": 36,
+				"Name": "mesh export.008",
+				"Components": {
+					"gs::core::Transform": {
+						"Position": {
+							"x": 68.9411,
+							"y": 28.0654,
+							"z": -2.5307
+						},
+						"Rotation": {
+							"x": -0.0,
+							"y": 0.0,
+							"z": 0.0
+						},
+						"Scale": {
+							"x": 0.01,
+							"y": 0.01,
+							"z": 0.01
+						}
+					},
+					"gs::core::Object": {
+						"Geometry": "terrain/mesh export.008.geo"
+					}
+				}
+			},
+			"Node": {
+				"Uid": 37,
+				"Name": "mesh export.007",
+				"Components": {
+					"gs::core::Transform": {
+						"Position": {
+							"x": 73.1844,
+							"y": 28.8903,
+							"z": -10.8353
+						},
+						"Rotation": {
+							"x": -0.0,
+							"y": 0.9059,
+							"z": -0.0
+						},
+						"Scale": {
+							"x": 0.0109,
+							"y": 0.0109,
+							"z": 0.0109
+						}
+					},
+					"gs::core::Object": {
+						"Geometry": "terrain/mesh export.007.geo"
+					}
+				}
+			},
+			"Node": {
+				"Uid": 38,
+				"Name": "mesh export.006",
+				"Components": {
+					"gs::core::Transform": {
+						"Position": {
+							"x": 67.3686,
+							"y": 30.9738,
+							"z": 33.3004
+						},
+						"Rotation": {
+							"x": -0.0,
+							"y": 0.43110000000000006,
+							"z": 0.0001
+						},
+						"Scale": {
+							"x": 0.01,
+							"y": 0.01,
+							"z": 0.01
+						}
+					},
+					"gs::core::Object": {
+						"Geometry": "terrain/mesh export.006.geo"
+					}
+				}
+			},
+			"Node": {
+				"Uid": 39,
+				"Name": "mesh export.005",
+				"Components": {
+					"gs::core::Transform": {
+						"Position": {
+							"x": 69.3319,
+							"y": 30.989800000000004,
+							"z": 19.8189
+						},
+						"Rotation": {
+							"x": -0.0,
+							"y": 0.45380000000000006,
+							"z": 0.0001
+						},
+						"Scale": {
+							"x": 0.0128,
+							"y": 0.0128,
+							"z": 0.0128
+						}
+					},
+					"gs::core::Object": {
+						"Geometry": "terrain/mesh export.005.geo"
+					}
+				}
+			},
+			"Node": {
+				"Uid": 40,
+				"Name": "mesh export.004",
+				"Components": {
+					"gs::core::Transform": {
+						"Position": {
+							"x": 72.9116,
+							"y": 28.9125,
+							"z": 33.1405
+						},
+						"Rotation": {
+							"x": -0.0,
+							"y": 1.6302,
+							"z": 0.0001
+						},
+						"Scale": {
+							"x": 0.008700000000000002,
+							"y": 0.008700000000000002,
+							"z": 0.008700000000000002
+						}
+					},
+					"gs::core::Object": {
+						"Geometry": "terrain/mesh export.004.geo"
+					}
+				}
+			},
+			"Node": {
+				"Uid": 41,
+				"Name": "mesh export.003",
+				"Components": {
+					"gs::core::Transform": {
+						"Position": {
+							"x": 27.283900000000004,
+							"y": 23.247300000000004,
+							"z": 5.250100000000001
+						},
+						"Rotation": {
+							"x": -0.0,
+							"y": 0.0,
+							"z": 0.0
+						},
+						"Scale": {
+							"x": 0.01,
+							"y": 0.01,
+							"z": 0.01
+						}
+					},
+					"gs::core::Object": {
+						"Geometry": "terrain/mesh export.003.geo"
+					}
+				}
+			},
+			"Node": {
+				"Uid": 42,
+				"Name": "mesh export.002",
+				"Components": {
+					"gs::core::Transform": {
+						"Position": {
+							"x": 53.8491,
+							"y": 33.022200000000008,
+							"z": 17.6766
+						},
+						"Rotation": {
+							"x": -0.0,
+							"y": 0.0,
+							"z": 0.0
+						},
+						"Scale": {
+							"x": 0.01,
+							"y": 0.01,
+							"z": 0.01
+						}
+					},
+					"gs::core::Object": {
+						"Geometry": "terrain/mesh export.002.geo"
+					}
+				}
+			},
+			"Node": {
+				"Uid": 43,
+				"Name": "mesh export.001",
+				"Components": {
+					"gs::core::Transform": {
+						"Position": {
+							"x": 74.169,
+							"y": 28.9055,
+							"z": -18.3581
+						},
+						"Rotation": {
+							"x": -0.0,
+							"y": 0.0,
+							"z": 0.0
+						},
+						"Scale": {
+							"x": 0.01,
+							"y": 0.01,
+							"z": 0.01
+						}
+					},
+					"gs::core::Object": {
+						"Geometry": "terrain/mesh export.001.geo"
+					}
+				}
+			},
+			"Node": {
+				"Uid": 44,
+				"Name": "mesh export",
+				"Components": {
+					"gs::core::Transform": {
+						"Position": {
+							"x": 75.7132,
+							"y": 28.9658,
+							"z": 0.0001
+						},
+						"Rotation": {
+							"x": -0.0,
+							"y": 0.0,
+							"z": 0.0
+						},
+						"Scale": {
+							"x": 0.01,
+							"y": 0.01,
+							"z": 0.01
+						}
+					},
+					"gs::core::Object": {
+						"Geometry": "terrain/mesh export.geo"
+					}
+				}
+			},
+			"Node": {
+				"Uid": 45,
+				"Name": "pont",
+				"Components": {
+					"gs::core::Transform": {
+						"Position": {
+							"x": 18.0185,
+							"y": 16.817,
+							"z": 53.365700000000007
+						},
+						"Rotation": {
+							"x": -0.0,
+							"y": -0.5393,
+							"z": 0.0367
+						},
+						"Scale": {
+							"x": 0.01,
+							"y": 0.01,
+							"z": 0.01
+						}
+					},
+					"gs::core::Object": {
+						"Geometry": "terrain/pont.geo"
+					}
+				}
+			},
+			"Node": {
+				"Uid": 46,
+				"Name": "mesh_export.009",
+				"Components": {
+					"gs::core::Transform": {
+						"Position": {
+							"x": 19.259,
+							"y": 24.3516,
+							"z": 1.7686000000000002
+						},
+						"Rotation": {
+							"x": -0.0,
+							"y": 0.0,
+							"z": 0.0
+						},
+						"Scale": {
+							"x": 0.01,
+							"y": 0.01,
+							"z": 0.01
+						}
+					},
+					"gs::core::Object": {
+						"Geometry": "terrain/mesh_export.009.geo"
+					}
+				}
+			},
+			"Node": {
+				"Uid": 47,
+				"Name": "mesh_export.008",
+				"Components": {
+					"gs::core::Transform": {
+						"Position": {
+							"x": 18.598300000000003,
+							"y": 25.7084,
+							"z": -8.4367
+						},
+						"Rotation": {
+							"x": -0.0,
+							"y": -1.0157,
+							"z": -0.0
+						},
+						"Scale": {
+							"x": 0.01,
+							"y": 0.01,
+							"z": 0.01
+						}
+					},
+					"gs::core::Object": {
+						"Geometry": "terrain/mesh_export.008.geo"
+					}
+				}
+			},
+			"Node": {
+				"Uid": 48,
+				"Name": "mesh_export.007",
+				"Components": {
+					"gs::core::Transform": {
+						"Position": {
+							"x": 17.9663,
+							"y": 25.7084,
+							"z": -8.4367
+						},
+						"Rotation": {
+							"x": -0.0,
+							"y": 0.501,
+							"z": -0.0
+						},
+						"Scale": {
+							"x": 0.01,
+							"y": 0.01,
+							"z": 0.01
+						}
+					},
+					"gs::core::Object": {
+						"Geometry": "terrain/mesh_export.007.geo"
+					}
+				}
+			},
+			"Node": {
+				"Uid": 49,
+				"Name": "mesh_export",
+				"Components": {
+					"gs::core::Transform": {
+						"Position": {
+							"x": 14.5585,
+							"y": 24.189700000000003,
+							"z": 1.9331
+						},
+						"Rotation": {
+							"x": -0.0,
+							"y": 0.0,
+							"z": 0.0
+						},
+						"Scale": {
+							"x": 0.01,
+							"y": 0.01,
+							"z": 0.01
+						}
+					},
+					"gs::core::Object": {
+						"Geometry": "terrain/mesh_export.geo"
+					}
+				}
+			},
+			"Node": {
+				"Uid": 50,
+				"Name": "Mesh",
+				"Components": {
+					"gs::core::Transform": {
+						"Position": {
+							"x": 28.4986,
+							"y": 25.409100000000004,
+							"z": -9.5168
+						},
+						"Rotation": {
+							"x": -0.115,
+							"y": -1.4953,
+							"z": 0.0422
+						},
+						"Scale": {
+							"x": 0.01,
+							"y": 0.01,
+							"z": 0.01
+						}
+					},
+					"gs::core::Object": {
+						"Geometry": "terrain/Mesh.geo"
+					}
+				}
+			},
+			"Node": {
+				"Uid": 51,
+				"Name": "arbre.004",
+				"Components": {
+					"gs::core::Transform": {
+						"Position": {
+							"x": 9.0107,
+							"y": 23.4696,
+							"z": -3.2903000000000004
+						},
+						"Rotation": {
+							"x": -0.0,
+							"y": 2.9566000000000005,
+							"z": -0.0
+						},
+						"Scale": {
+							"x": 0.0078000000000000009,
+							"y": 0.0094,
+							"z": 0.0078000000000000009
+						}
+					},
+					"gs::core::Object": {
+						"Geometry": "terrain/arbre.004.geo"
+					}
+				}
+			},
+			"Node": {
+				"Uid": 52,
+				"Name": "arbre.003",
+				"Components": {
+					"gs::core::Transform": {
+						"Position": {
+							"x": 9.7636,
+							"y": 23.4696,
+							"z": -1.2478
+						},
+						"Rotation": {
+							"x": -0.0,
+							"y": 0.9914000000000001,
+							"z": 0.0001
+						},
+						"Scale": {
+							"x": 0.006200000000000001,
+							"y": 0.0074,
+							"z": 0.006200000000000001
+						}
+					},
+					"gs::core::Object": {
+						"Geometry": "terrain/arbre.003.geo"
+					}
+				}
+			},
+			"Node": {
+				"Uid": 53,
+				"Name": "arbre.002",
+				"Components": {
+					"gs::core::Transform": {
+						"Position": {
+							"x": 5.655200000000001,
+							"y": 23.3182,
+							"z": -0.7591
+						},
+						"Rotation": {
+							"x": -0.0,
+							"y": -0.4747,
+							"z": -0.0
+						},
+						"Scale": {
+							"x": 0.01,
+							"y": 0.01,
+							"z": 0.01
+						}
+					},
+					"gs::core::Object": {
+						"Geometry": "terrain/arbre.002.geo"
+					}
+				}
+			},
+			"Node": {
+				"Uid": 54,
+				"Name": "arbre.001",
+				"Components": {
+					"gs::core::Transform": {
+						"Position": {
+							"x": 4.7753000000000009,
+							"y": 23.2426,
+							"z": -9.2466
+						},
+						"Rotation": {
+							"x": -0.0,
+							"y": 0.9286000000000001,
+							"z": 0.0001
+						},
+						"Scale": {
+							"x": 0.0115,
+							"y": 0.0106,
+							"z": 0.0111
+						}
+					},
+					"gs::core::Object": {
+						"Geometry": "terrain/arbre.001.geo"
+					}
+				}
+			},
+			"Node": {
+				"Uid": 55,
+				"Name": "arbre",
+				"Components": {
+					"gs::core::Transform": {
+						"Position": {
+							"x": 1.0958,
+							"y": 23.3182,
+							"z": -0.7591
+						},
+						"Rotation": {
+							"x": -0.0,
+							"y": 0.0,
+							"z": 0.0
+						},
+						"Scale": {
+							"x": 0.01,
+							"y": 0.01,
+							"z": 0.01
+						}
+					},
+					"gs::core::Object": {
+						"Geometry": "terrain/arbre.geo"
+					}
+				}
+			},
+			"Node": {
+				"Uid": 56,
+				"Name": "Cube.001",
+				"Components": {
+					"gs::core::Transform": {
+						"Position": {
+							"x": -13.449200000000002,
+							"y": 31.2409,
+							"z": 28.9175
+						},
+						"Rotation": {
+							"x": 1.5708,
+							"y": 3.1416,
+							"z": 3.1416
+						},
+						"Scale": {
+							"x": 1.0,
+							"y": 1.0,
+							"z": 0.1501
+						}
+					},
+					"gs::core::Object": {
+						"Geometry": "terrain/Cube.001.geo"
+					}
+				}
+			},
+			"Node": {
+				"Uid": 57,
+				"Name": "CameraGame",
+				"Components": {
+					"gs::core::Transform": {
+						"Position": {
+							"x": -993.1297000000001,
+							"y": 844.3525000000001,
+							"z": 835.2754
+						},
+						"Rotation": {
+							"x": 0.0001,
+							"y": 0.6773,
+							"z": -0.5640000000000001
+						},
+						"Scale": {
+							"x": 1.0,
+							"y": 1.0,
+							"z": 1.0
+						}
+					},
+					"gs::core::Camera": {
+						"ZoomFactor": 19.5669,
+						"ZNear": 0.10010000000000001,
+						"ZFar": 50.0,
+						"IsOrthographic": true
+					}
+				}
+			},
+			"Node": {
+				"Uid": 58,
+				"Name": "Backlight_ciel",
+				"Components": {
+					"gs::core::Transform": {
+						"Position": {
+							"x": -27.0102,
+							"y": 98.7577,
+							"z": -19.6646
+						},
+						"Rotation": {
+							"x": 0.7854,
+							"y": -2.7628,
+							"z": -0.0
+						},
+						"Scale": {
+							"x": 1.0,
+							"y": 1.0,
+							"z": 1.0
+						}
+					},
+					"gs::core::Light": {
+						"Model": "Linear",
+						"ShadowRange": 0.0,
+						"DiffuseColor": {
+							"r": 0.29860000000000005,
+							"g": 0.2509,
+							"b": 0.7485
+						},
+						"SpecularColor": {
+							"r": 0.29860000000000005,
+							"g": 0.2509,
+							"b": 0.7485
+						},
+						"DiffuseIntensity": 0.30010000000000006
+					}
+				}
+			},
+			"Node": {
+				"Uid": 59,
+				"Name": "Soleil",
+				"Components": {
+					"gs::core::Transform": {
+						"Position": {
+							"x": 1.1169,
+							"y": 91.98270000000001,
+							"z": -25.8462
+						},
+						"Rotation": {
+							"x": 0.7854,
+							"y": -0.5235000000000001,
+							"z": -0.0
+						}
+					},
+					"gs::core::Light": {
+						"Model": "Linear",
+						"Shadow": "ShadowMap",
+						"ShadowRange": 0.0,
+						"SpecularColor": {
+							"r": 1.0,
+							"g": 1.0,
+							"b": 1.0
+						}
+					}
+				}
+			},
+			"Node": {
+				"Uid": 60,
+				"Name": "CameraHightMap",
+				"Components": {
+					"gs::core::Transform": {
+						"Position": {
+							"x": 0.0,
+							"y": 407.1517,
+							"z": 0.0
+						},
+						"Rotation": {
+							"x": 0.0001,
+							"y": -1.5707,
+							"z": -1.5707
+						}
+					},
+					"gs::core::Camera": {
+						"ZoomFactor": 19.5669,
+						"ZNear": 0.10010000000000001,
+						"ZFar": 50.0,
+						"IsOrthographic": true
+					}
+				}
+			},
+			"Node": {
+				"Uid": 61,
+				"Name": "Cube",
+				"Components": {
+					"gs::core::Transform": {
+						"Position": {
+							"x": 0.6977,
+							"y": -34.1274,
+							"z": -0.364
+						},
+						"Rotation": {
+							"x": 1.5708,
+							"y": 3.1416,
+							"z": 3.1416
+						}
+					},
+					"gs::core::Object": {
+						"Geometry": "terrain/Cube.geo"
+					}
+				}
+			},
+			"Node": {
+				"Uid": 62,
+				"Name": "arches",
+				"Components": {
+					"gs::core::Transform": {
+						"Position": {
+							"x": 44.6266,
+							"y": 30.941100000000004,
+							"z": 21.532400000000004
+						},
+						"Rotation": {
+							"x": 1.5708,
+							"y": 3.1416,
+							"z": 3.1416
+						},
+						"Scale": {
+							"x": 0.01,
+							"y": 0.01,
+							"z": 0.01
+						}
+					},
+					"gs::core::Object": {
+						"Geometry": "terrain/arches.geo"
+					}
+				}
+			},
+			"Node": {
+				"Uid": 63,
+				"Name": "eglise",
+				"Components": {
+					"gs::core::Transform": {
+						"Position": {
+							"x": 12.391200000000002,
+							"y": 25.3659,
+							"z": -9.1701
+						},
+						"Rotation": {
+							"x": -0.0,
+							"y": 0.0,
+							"z": 0.0
+						},
+						"Scale": {
+							"x": 0.011300000000000001,
+							"y": 0.011300000000000001,
+							"z": 0.011300000000000001
+						}
+					},
+					"gs::core::Object": {
+						"Geometry": "terrain/eglise.geo"
+					}
+				}
+			},
+			"Node": {
+				"Uid": 64,
+				"Name": "maison.001",
+				"Components": {
+					"gs::core::Transform": {
+						"Position": {
+							"x": 33.368,
+							"y": 25.479400000000003,
+							"z": -20.348100000000004
+						},
+						"Rotation": {
+							"x": 1.5708,
+							"y": 3.1416,
+							"z": 3.1416
+						},
+						"Scale": {
+							"x": 0.01,
+							"y": 0.01,
+							"z": 0.01
+						}
+					},
+					"gs::core::Object": {
+						"Geometry": "terrain/maison.001.geo"
+					}
+				}
+			},
+			"Node": {
+				"Uid": 65,
+				"Name": "maison.002",
+				"Components": {
+					"gs::core::Transform": {
+						"Position": {
+							"x": 5.645700000000001,
+							"y": 25.874000000000004,
+							"z": -24.1611
+						},
+						"Rotation": {
+							"x": 1.5708,
+							"y": 3.1416,
+							"z": 3.1416
+						},
+						"Scale": {
+							"x": 0.01,
+							"y": 0.01,
+							"z": 0.01
+						}
+					},
+					"gs::core::Object": {
+						"Geometry": "terrain/maison.002.geo"
+					}
+				}
+			},
+			"Node": {
+				"Uid": 66,
+				"Name": "maison.003",
+				"Components": {
+					"gs::core::Transform": {
+						"Position": {
+							"x": 4.918200000000001,
+							"y": 25.3455,
+							"z": -16.5482
+						},
+						"Rotation": {
+							"x": 1.5708,
+							"y": 3.1416,
+							"z": 3.1416
+						},
+						"Scale": {
+							"x": 0.01,
+							"y": 0.01,
+							"z": 0.01
+						}
+					},
+					"gs::core::Object": {
+						"Geometry": "terrain/maison.003.geo"
+					}
+				}
+			},
+			"Node": {
+				"Uid": 67,
+				"Name": "maison.004",
+				"Components": {
+					"gs::core::Transform": {
+						"Position": {
+							"x": 16.774900000000004,
+							"y": 25.989600000000004,
+							"z": -28.778200000000003
+						},
+						"Rotation": {
+							"x": 1.5708,
+							"y": 3.1416,
+							"z": 3.1416
+						},
+						"Scale": {
+							"x": 0.01,
+							"y": 0.01,
+							"z": 0.01
+						}
+					},
+					"gs::core::Object": {
+						"Geometry": "terrain/maison.004.geo"
+					}
+				}
+			},
+			"Node": {
+				"Uid": 68,
+				"Name": "maison.005",
+				"Components": {
+					"gs::core::Transform": {
+						"Position": {
+							"x": 28.755100000000004,
+							"y": 24.896,
+							"z": -10.5416
+						},
+						"Rotation": {
+							"x": 1.5708,
+							"y": -1.5707,
+							"z": -3.1415
+						},
+						"Scale": {
+							"x": 0.01,
+							"y": 0.01,
+							"z": 0.01
+						}
+					},
+					"gs::core::Object": {
+						"Geometry": "terrain/maison.005.geo"
+					}
+				}
+			},
+			"Node": {
+				"Uid": 69,
+				"Name": "maison.006",
+				"Components": {
+					"gs::core::Transform": {
+						"Position": {
+							"x": 34.7952,
+							"y": 24.7373,
+							"z": -13.4662
+						},
+						"Rotation": {
+							"x": 1.5708,
+							"y": 3.1416,
+							"z": 3.1416
+						},
+						"Scale": {
+							"x": 0.01,
+							"y": 0.01,
+							"z": 0.01
+						}
+					},
+					"gs::core::Object": {
+						"Geometry": "terrain/maison.006.geo"
+					}
+				}
+			},
+			"Node": {
+				"Uid": 70,
+				"Name": "maison.007",
+				"Components": {
+					"gs::core::Transform": {
+						"Position": {
+							"x": 19.6613,
+							"y": 24.3621,
+							"z": -1.5701
+						},
+						"Rotation": {
+							"x": 1.5708,
+							"y": 3.1416,
+							"z": 3.1416
+						},
+						"Scale": {
+							"x": 0.01,
+							"y": 0.01,
+							"z": 0.01
+						}
+					},
+					"gs::core::Object": {
+						"Geometry": "terrain/maison.007.geo"
+					}
+				}
+			},
+			"Node": {
+				"Uid": 71,
+				"Name": "maison.008",
+				"Components": {
+					"gs::core::Transform": {
+						"Position": {
+							"x": 34.517700000000008,
+							"y": 24.9159,
+							"z": 14.3443
+						},
+						"Rotation": {
+							"x": 1.5708,
+							"y": 3.1416,
+							"z": 3.1416
+						},
+						"Scale": {
+							"x": 0.01,
+							"y": 0.01,
+							"z": 0.01
+						}
+					},
+					"gs::core::Object": {
+						"Geometry": "terrain/maison.008.geo"
+					}
+				}
+			},
+			"Node": {
+				"Uid": 72,
+				"Name": "maison.009",
+				"Components": {
+					"gs::core::Transform": {
+						"Position": {
+							"x": 34.7436,
+							"y": 24.8766,
+							"z": -10.5098
+						},
+						"Rotation": {
+							"x": 1.5708,
+							"y": -1.5707,
+							"z": -3.1415
+						},
+						"Scale": {
+							"x": 0.01,
+							"y": 0.01,
+							"z": 0.01
+						}
+					},
+					"gs::core::Object": {
+						"Geometry": "terrain/maison.009.geo"
+					}
+				}
+			},
+			"Node": {
+				"Uid": 73,
+				"Name": "maison.010",
+				"Components": {
+					"gs::core::Transform": {
+						"Position": {
+							"x": -7.2087,
+							"y": 23.581200000000004,
+							"z": 11.9045
+						},
+						"Rotation": {
+							"x": 1.5708,
+							"y": 3.1416,
+							"z": 3.1416
+						},
+						"Scale": {
+							"x": 0.01,
+							"y": 0.01,
+							"z": 0.01
+						}
+					},
+					"gs::core::Object": {
+						"Geometry": "terrain/maison.010.geo"
+					}
+				}
+			},
+			"Node": {
+				"Uid": 74,
+				"Name": "maison.011",
+				"Components": {
+					"gs::core::Transform": {
+						"Position": {
+							"x": -14.735600000000002,
+							"y": 23.4286,
+							"z": 9.877
+						},
+						"Rotation": {
+							"x": 1.5708,
+							"y": 3.1416,
+							"z": 3.1416
+						},
+						"Scale": {
+							"x": 0.01,
+							"y": 0.01,
+							"z": 0.01
+						}
+					},
+					"gs::core::Object": {
+						"Geometry": "terrain/maison.011.geo"
+					}
+				}
+			},
+			"Node": {
+				"Uid": 75,
+				"Name": "maison.012",
+				"Components": {
+					"gs::core::Transform": {
+						"Position": {
+							"x": -24.197400000000003,
+							"y": 23.5131,
+							"z": 14.9083
+						},
+						"Rotation": {
+							"x": 1.5708,
+							"y": 3.1416,
+							"z": 3.1416
+						},
+						"Scale": {
+							"x": 0.01,
+							"y": 0.01,
+							"z": 0.01
+						}
+					},
+					"gs::core::Object": {
+						"Geometry": "terrain/maison.012.geo"
+					}
+				}
+			},
+			"Node": {
+				"Uid": 76,
+				"Name": "maison.013",
+				"Components": {
+					"gs::core::Transform": {
+						"Position": {
+							"x": 10.6899,
+							"y": 23.5214,
+							"z": 13.3621
+						},
+						"Rotation": {
+							"x": 1.5708,
+							"y": 3.1416,
+							"z": 3.1416
+						},
+						"Scale": {
+							"x": 0.01,
+							"y": 0.01,
+							"z": 0.01
+						}
+					},
+					"gs::core::Object": {
+						"Geometry": "terrain/maison.013.geo"
+					}
+				}
+			},
+			"Node": {
+				"Uid": 77,
+				"Name": "maison.014",
+				"Components": {
+					"gs::core::Transform": {
+						"Position": {
+							"x": -21.4203,
+							"y": 23.585,
+							"z": 18.204700000000004
+						},
+						"Rotation": {
+							"x": 1.5708,
+							"y": -1.5707,
+							"z": -3.1415
+						},
+						"Scale": {
+							"x": 0.01,
+							"y": 0.01,
+							"z": 0.01
+						}
+					},
+					"gs::core::Object": {
+						"Geometry": "terrain/maison.014.geo"
+					}
+				}
+			},
+			"Node": {
+				"Uid": 78,
+				"Name": "maison.015",
+				"Components": {
+					"gs::core::Transform": {
+						"Position": {
+							"x": -15.465,
+							"y": 23.568900000000004,
+							"z": 15.1737
+						},
+						"Rotation": {
+							"x": 1.5708,
+							"y": -1.5707,
+							"z": -3.1415
+						},
+						"Scale": {
+							"x": 0.01,
+							"y": 0.01,
+							"z": 0.01
+						}
+					},
+					"gs::core::Object": {
+						"Geometry": "terrain/maison.015.geo"
+					}
+				}
+			},
+			"Node": {
+				"Uid": 79,
+				"Name": "maison.016",
+				"Components": {
+					"gs::core::Transform": {
+						"Position": {
+							"x": -13.1105,
+							"y": 19.053,
+							"z": 31.4387
+						},
+						"Rotation": {
+							"x": 1.5708,
+							"y": 3.1416,
+							"z": 3.1416
+						},
+						"Scale": {
+							"x": 0.01,
+							"y": 0.01,
+							"z": 0.01
+						}
+					},
+					"gs::core::Object": {
+						"Geometry": "terrain/maison.016.geo"
+					}
+				}
+			},
+			"Node": {
+				"Uid": 80,
+				"Name": "maison.017",
+				"Components": {
+					"gs::core::Transform": {
+						"Position": {
+							"x": -0.8025,
+							"y": 16.3247,
+							"z": 34.64
+						},
+						"Rotation": {
+							"x": 1.5708,
+							"y": 3.1416,
+							"z": 3.1416
+						},
+						"Scale": {
+							"x": 0.01,
+							"y": 0.01,
+							"z": 0.01
+						}
+					},
+					"gs::core::Object": {
+						"Geometry": "terrain/maison.017.geo"
+					}
+				}
+			},
+			"Node": {
+				"Uid": 81,
+				"Name": "maison.018",
+				"Components": {
+					"gs::core::Transform": {
+						"Position": {
+							"x": 7.8315,
+							"y": 17.8047,
+							"z": 40.501200000000007
+						},
+						"Rotation": {
+							"x": 1.5708,
+							"y": 1.5708,
+							"z": 3.1416
+						},
+						"Scale": {
+							"x": 0.01,
+							"y": 0.01,
+							"z": 0.01
+						}
+					},
+					"gs::core::Object": {
+						"Geometry": "terrain/maison.018.geo"
+					}
+				}
+			},
+			"Node": {
+				"Uid": 82,
+				"Name": "maison.019",
+				"Components": {
+					"gs::core::Transform": {
+						"Position": {
+							"x": 13.8186,
+							"y": 17.5894,
+							"z": 37.5037
+						},
+						"Rotation": {
+							"x": 1.5708,
+							"y": 3.1416,
+							"z": 3.1416
+						},
+						"Scale": {
+							"x": 0.01,
+							"y": 0.01,
+							"z": 0.01
+						}
+					},
+					"gs::core::Object": {
+						"Geometry": "terrain/maison.019.geo"
+					}
+				}
+			},
+			"Node": {
+				"Uid": 83,
+				"Name": "maison.020",
+				"Components": {
+					"gs::core::Transform": {
+						"Position": {
+							"x": 32.741,
+							"y": 23.9813,
+							"z": 36.574400000000007
+						},
+						"Rotation": {
+							"x": 1.5708,
+							"y": 1.5708,
+							"z": 3.1416
+						},
+						"Scale": {
+							"x": 0.01,
+							"y": 0.01,
+							"z": 0.01
+						}
+					},
+					"gs::core::Object": {
+						"Geometry": "terrain/maison.020.geo"
+					}
+				}
+			},
+			"Node": {
+				"Uid": 84,
+				"Name": "maison.021",
+				"Components": {
+					"gs::core::Transform": {
+						"Position": {
+							"x": 13.7615,
+							"y": 23.395100000000004,
+							"z": 22.459500000000003
+						},
+						"Rotation": {
+							"x": 1.5708,
+							"y": -1.5707,
+							"z": -3.1415
+						},
+						"Scale": {
+							"x": 0.01,
+							"y": 0.01,
+							"z": 0.01
+						}
+					},
+					"gs::core::Object": {
+						"Geometry": "terrain/maison.021.geo"
+					}
+				}
+			},
+			"Node": {
+				"Uid": 85,
+				"Name": "maison.022",
+				"Components": {
+					"gs::core::Transform": {
+						"Position": {
+							"x": 7.776800000000001,
+							"y": 23.509,
+							"z": 22.5453
+						},
+						"Rotation": {
+							"x": 1.5708,
+							"y": -1.5707,
+							"z": -3.1415
+						},
+						"Scale": {
+							"x": 0.01,
+							"y": 0.01,
+							"z": 0.01
+						}
+					},
+					"gs::core::Object": {
+						"Geometry": "terrain/maison.022.geo"
+					}
+				}
+			},
+			"Node": {
+				"Uid": 86,
+				"Name": "maison.023",
+				"Components": {
+					"gs::core::Transform": {
+						"Position": {
+							"x": 31.215200000000004,
+							"y": 18.061400000000004,
+							"z": 56.2372
+						},
+						"Rotation": {
+							"x": 1.5708,
+							"y": 3.1416,
+							"z": 3.1416
+						},
+						"Scale": {
+							"x": 0.01,
+							"y": 0.01,
+							"z": 0.01
+						}
+					},
+					"gs::core::Object": {
+						"Geometry": "terrain/maison.023.geo"
+					}
+				}
+			},
+			"Node": {
+				"Uid": 87,
+				"Name": "maison",
+				"Components": {
+					"gs::core::Transform": {
+						"Position": {
+							"x": -36.9707,
+							"y": 31.5892,
+							"z": 0.6695
+						},
+						"Rotation": {
+							"x": 1.5708,
+							"y": 3.1416,
+							"z": 3.1416
+						},
+						"Scale": {
+							"x": 0.01,
+							"y": 0.01,
+							"z": 0.01
+						}
+					},
+					"gs::core::Object": {
+						"Geometry": "terrain/maison.geo"
+					}
+				}
+			}
+		},
+		"NodeHierarchy": {},
+		"Skeletons": {},
+		"State": {}
+	}
+}
